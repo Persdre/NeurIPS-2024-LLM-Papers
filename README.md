@@ -1,5 +1,7 @@
 # NeurIPS-2024-LLM-Papers
-Accepted LLM papers in NeurIPS 2024
+LLM papers in NeurIPS 2024
+
+(Abstracts and arxiv links will be uploaded soon.)
 
 | Title |
 | --- |
